@@ -1,0 +1,50 @@
+table{
+    border:2px solid black; 
+    width:30%;
+    background-color:grey;
+    }
+    td{
+    padding:15px;
+    height:100%;
+    color:white;
+    }
+    input{
+    width:100%;
+    height: 40px;;
+    background-color:white;
+    }
+    button{
+    width:100%;
+    height:200%;
+    }
+    button:hover{
+    color: #8AC007;
+    font-weight:bold;
+    }
+
+.cal-display{
+    height: 75px;
+    width: 100%;
+    border: 0px;
+    text-align: right;
+    font-size: 25px;
+    font-weight: 400;
+    color: grey;
+}
+
+.cal-display-sol{
+    height: 50px;
+    width: 100%;
+    border: 0px;
+    text-align: right;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.cal-sol{
+    background-color: #85c1e8;
+}
+
+.cal-sol:hover{
+    background-color: #1fa7ff;
+}
