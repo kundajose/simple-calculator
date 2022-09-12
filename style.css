@@ -1,7 +1,9 @@
 table{
-    border:2px solid black; 
+    border:2px solid #060506; 
     width:30%;
-    background-color:grey;
+    background-color:rgb(2, 44, 33);
+    border-radius: 25px;
+    margin-top: 60px;
     }
     td{
     padding:15px;
@@ -18,7 +20,8 @@ table{
     height:200%;
     }
     button:hover{
-    color: #8AC007;
+        color: white;
+    background-color: rgb(226, 6, 179);
     font-weight:bold;
     }
 
@@ -41,10 +44,10 @@ table{
     font-weight: 400;
 }
 
-.cal-sol{
+/* .cal-sol{
     background-color: #85c1e8;
-}
+} */
 
-.cal-sol:hover{
-    background-color: #1fa7ff;
-}
+/* .cal-sol:hover{
+    background-color: #42ce17;
+} */
